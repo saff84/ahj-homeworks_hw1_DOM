@@ -1,3 +1,3 @@
 # ahj-homeworks_hw2_DOM
 Домашнее задание к занятию "2. DOM"
-![CI](https://github.com/saff84/ahj-homeworks_hw2_DOM/actions/workflows/web.yml/badge.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/frlfo7udekyqptd5/branch/main?svg=true)](https://ci.appveyor.com/project/saff84/ahj-homeworks-hw2-dom/branch/main)
